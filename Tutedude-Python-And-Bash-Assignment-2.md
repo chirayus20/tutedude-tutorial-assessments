@@ -1,2 +1,0 @@
-Tutedude-Python And Bash-Assignment 2 - Google Doc link: 
-https://docs.google.com/document/d/10FjaSIx1JtCF47fpdlexzNoFzrpt9P_myUFe-7Pdxug/edit?usp=sharing
